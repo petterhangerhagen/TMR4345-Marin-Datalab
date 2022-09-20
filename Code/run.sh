@@ -1,0 +1,1 @@
+python3 live_plot.py & python3 main.py
